@@ -8,7 +8,7 @@
 
 Name:           pnglite
 Version:        0.1.17
-Release:        %mkrel 1
+Release:        %mkrel 2
 Summary:        A lightweight C library for loading PNG images
 
 Group:          System/Libraries
