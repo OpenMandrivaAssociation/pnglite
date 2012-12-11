@@ -81,3 +81,15 @@ rm -rf $RPM_BUILD_ROOT
 %{_libdir}/*.so
 %{_includedir}/*.h
 
+
+
+%changelog
+* Tue Sep 15 2009 Thierry Vignaud <tvignaud@mandriva.com> 0.1.17-2mdv2010.0
++ Revision: 441882
+- rebuild
+
+* Wed Jan 28 2009 Olivier Thauvin <nanardon@mandriva.org> 0.1.17-1mdv2009.1
++ Revision: 334942
+- import pnglite
+
+
