@@ -13,7 +13,7 @@ Summary:        A lightweight C library for loading PNG images
 
 Group:          System/Libraries
 License:        Zlib
-URL:            http://www.karlings.com/~danne/pnglite/
+URL:            https://www.karlings.com/~danne/pnglite/
 Source0:        http://downloads.sourceforge.net/pnglite/%{name}-%{version}.zip
 Patch0:         pnglite-0.1.17-zlib.patch
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
